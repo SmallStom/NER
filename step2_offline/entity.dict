@@ -1,0 +1,8 @@
+<pad>	0
+<unk>	1
+song	2
+film	3
+album	4
+tvseries	5
+cartoon	6
+_	7
